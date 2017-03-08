@@ -52,4 +52,14 @@
         style="@style/Widget.AppCompat.Button"
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Forget Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/button"
+        android:layout_alignRight="@+id/button"
+        android:layout_alignEnd="@+id/button" />
 </RelativeLayout>
